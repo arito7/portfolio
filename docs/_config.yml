@@ -29,6 +29,10 @@ domain: yujitak.monster
 twitter_username: jekyllrb
 github_username: jekyll
 
+collections:
+  pages:
+    output: true
+
 # Build settings
 theme: jekyll-theme-cayman
 plugins:
