@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[691],{6854:function(o,t,e){e.r(t);var s=e(7946),n={color:"#232129",margin:0,padding:0,fontFamily:"-apple-system, Roboto, sans-serif, serif"};t.default=function(){return(0,s.tZ)("main",{style:n},"Test")}}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-67223fe38a14712ca8b8.js.map
